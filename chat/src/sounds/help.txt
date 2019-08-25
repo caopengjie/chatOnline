@@ -1,0 +1,1 @@
+1、此包下的程序为语音聊天程序,运行该程序需要安装jfm，直接运行ChatLoginFrame.java 即可。

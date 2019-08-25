@@ -1,0 +1,4 @@
+1、此包下程序为放大镜程序，运行Magnifier.java后出现放大镜效果。
+2、MagnifierIcon.java 为放大镜的图形。
+3、MagnifierPanel.java 为放大镜图形界面。
+4、MagnifierWindow.java 为基于win系统api操作。

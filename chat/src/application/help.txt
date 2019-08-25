@@ -1,0 +1,1 @@
+1、此包下的程序为application即时通讯程序，ChatServer.java 为服务端，启动服务端后在运行ChatClient客户端进行通讯。
